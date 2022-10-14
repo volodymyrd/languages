@@ -35,7 +35,8 @@ mvnw clean install
 
 ```sh
 cd target
-java -jar LanguagePackBuilder-1.0.0-SNAPSHOT.jar com.shopizer.tools.language.LanguagePackBuilder path language -DAWS_ACCESS_KEY_ID=abd...xyz -DAWS_SECRET_ACCESS_KEY=xyz...123
+java -jar LanguagePackBuilder-1.0.0-SNAPSHOT.jar com.shopizer.tools.language.LanguagePackBuilder /Users/vova/work/workspace/shopizer/shopizer
+ pl -DAWS_ACCESS_KEY_ID= -DAWS_SECRET_ACCESS_KEY=
 ```
 #### Share your new language with us !
 

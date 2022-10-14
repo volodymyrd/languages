@@ -1,0 +1,12 @@
+{
+  "moneyorder": "Money Order",
+  "paypal-express-checkout": "PayPal Express Checkout",
+  "HEADER": {
+    "PROFILE": "Profile",
+    "LOGOUT": "Log out"
+  },
+  "HOME": {
+    "STORE_INFORMATION": "Store information",
+    "LAST_ACCESS": "Last access"
+  }
+}
